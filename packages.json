@@ -1,0 +1,10 @@
+[
+    {
+        "package": "datavolley",
+        "url": "https://github.com/openvolley/datavolley"
+    },
+    {
+        "package": "peranavolley",
+        "url": "https://github.com/openvolley/peranavolley"
+    }
+]
