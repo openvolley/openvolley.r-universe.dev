@@ -12,6 +12,18 @@
         "url": "https://github.com/openvolley/volleysim"
     },
     {
+        "package": "ovideo",
+        "url": "https://github.com/openvolley/ovideo"
+    },
+    {
+        "package": "ovplayer",
+        "url": "https://github.com/openvolley/ovplayer"
+    },
+    {
+        "package": "ovlytics",
+        "url": "https://github.com/openvolley/ovlytics"
+    },
+    {
         "package": "fivbvis",
         "url": "https://github.com/openvolley/fivbvis"
     }
