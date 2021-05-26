@@ -6,5 +6,13 @@
     {
         "package": "peranavolley",
         "url": "https://github.com/openvolley/peranavolley"
+    },
+    {
+        "package": "volleysim",
+        "url": "https://github.com/openvolley/volleysim"
+    },
+    {
+        "package": "fivbvis",
+        "url": "https://github.com/openvolley/fivbvis"
     }
 ]
