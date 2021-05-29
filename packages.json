@@ -24,6 +24,10 @@
         "url": "https://github.com/openvolley/ovlytics"
     },
     {
+        "package": "ovml",
+        "url": "https://github.com/openvolley/ovml"
+    },
+    {
         "package": "ovplayer",
         "url": "https://github.com/openvolley/ovplayer"
     },
@@ -34,6 +38,10 @@
     {
         "package": "peranavolley",
         "url": "https://github.com/openvolley/peranavolley"
+    },
+    {
+        "package": "volleyreport",
+        "url": "https://github.com/openvolley/volleyreport"
     },
     {
         "package": "volleysim",
