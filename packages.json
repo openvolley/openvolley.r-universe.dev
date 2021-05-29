@@ -1,5 +1,9 @@
 [
     {
+        "package": "auvolley",
+        "url": "https://github.com/openvolley/auvolley"
+    },
+    {
         "package": "datavolley",
         "url": "https://github.com/openvolley/datavolley"
     },
