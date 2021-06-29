@@ -28,6 +28,10 @@
         "url": "https://github.com/openvolley/ovml"
     },
     {
+        "package": "ovpaged",
+        "url": "https://github.com/openvolley/ovpaged"
+    },
+    {
         "package": "ovplayer",
         "url": "https://github.com/openvolley/ovplayer"
     },
