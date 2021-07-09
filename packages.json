@@ -50,5 +50,9 @@
     {
         "package": "volleysim",
         "url": "https://github.com/openvolley/volleysim"
+    },
+    {
+        "package": "volleyxml",
+        "url": "https://github.com/openvolley/volleyxml"
     }
 ]
