@@ -36,6 +36,10 @@
         "url": "https://github.com/openvolley/ovplayer"
     },
     {
+        "package": "ovscout",
+        "url": "https://github.com/openvolley/ovscout"
+    },
+    {
         "package": "ovva",
         "url": "https://github.com/openvolley/ovva"
     },
