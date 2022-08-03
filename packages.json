@@ -28,6 +28,14 @@
         "url": "https://github.com/openvolley/ovml"
     },
     {
+        "package": "ovml.common",
+        "url": "https://github.com/openvolley/ovml.common"
+    },
+    {
+        "package": "ovmlpy",
+        "url": "https://github.com/openvolley/ovmlpy"
+    },
+    {
         "package": "ovpaged",
         "url": "https://github.com/openvolley/ovpaged"
     },
