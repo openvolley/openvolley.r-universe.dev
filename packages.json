@@ -48,6 +48,10 @@
         "url": "https://github.com/openvolley/ovscout"
     },
     {
+        "package": "ovscout2",
+        "url": "https://github.com/openvolley/ovscout2"
+    },
+    {
         "package": "ovva",
         "url": "https://github.com/openvolley/ovva"
     },
