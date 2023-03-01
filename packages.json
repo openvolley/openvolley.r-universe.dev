@@ -70,5 +70,9 @@
     {
         "package": "volleyxml",
         "url": "https://github.com/openvolley/volleyxml"
+    },
+    {
+        "package": "vscoututils",
+        "url": "https://github.com/openvolley/vscoututils"
     }
 ]
